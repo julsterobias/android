@@ -1,3 +1,9 @@
+/*
+Author: Juls Terobias
+Version: 1.0
+Platform: java
+Location: UAE
+*/
 package com.terobias.gaidenreader;
 
 import java.util.ArrayList;
